@@ -1,0 +1,39 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 16px 0;
+  align-items: center;
+}
+
+.form label {
+  font-weight: bold;
+}
+
+.form input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.error {
+  color: #f44336;
+  font-size: 14px;
+  margin-top: -8px;
+}
+
+button {
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: #71aef0;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
