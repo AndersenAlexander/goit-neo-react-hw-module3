@@ -70,21 +70,22 @@ A simple React application for storing contacts in a phonebook. Users can add, f
 
 ## Getting Started
 1. Clone the repository:
-    git clone https://github.com/your-username/your-repo-name.git
    
-2. Navigate to the project folder:
+      git clone https://github.com/your-username/your-repo-name.git
+   
+3. Navigate to the project folder:
 
     cd your-repo-name
    
-3. Install dependencies:
+4. Install dependencies:
 
     npm install
    
-4. Start the development server:
+5. Start the development server:
 
     npm run dev
    
-5. Open your browser at the address provided in the terminal (typically http://localhost:5173).
+6. Open your browser at the address provided in the terminal (typically http://localhost:5173).
    
 ## Scripts
 npm run dev: Runs the app in development mode.
