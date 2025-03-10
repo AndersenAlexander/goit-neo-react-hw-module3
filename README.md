@@ -75,15 +75,15 @@ A simple React application for storing contacts in a phonebook. Users can add, f
    
 3. Navigate to the project folder:
 
-    cd your-repo-name
+      cd your-repo-name
    
 4. Install dependencies:
 
-    npm install
+      npm install
    
 5. Start the development server:
 
-    npm run dev
+      npm run dev
    
 6. Open your browser at the address provided in the terminal (typically http://localhost:5173).
    
