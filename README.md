@@ -1,9 +1,9 @@
 # Phonebook App
 
-A simple React application for storing contacts in a phonebook. Users can add, filter, and delete contacts, with data persisted in local storage. The app also demonstrates how to use Formik and Yup for form handling and validation, as well as how to implement a full-screen background video and styling with CSS Modules.
+ A simple React application for storing contacts in a phonebook. Users can add, filter, and delete contacts, with data persisted in local storage. The app also demonstrates how to use Formik and Yup for form handling and validation, as well as how to implement a full-screen background video and styling with CSS Modules.
 
 ## Features
-  Add New Contacts: Use a Formik-powered form with Yup validation (required fields, minimum/maximum length).
+   Add New Contacts: Use a Formik-powered form with Yup validation (required fields, minimum/maximum length).
   Filter Contacts: Search for contacts by name in real-time (case-insensitive).
   Delete Contacts: Remove any existing contact with a single click.
   Local Storage Persistence: Contacts remain available after page refresh or browser restart.
@@ -12,7 +12,7 @@ A simple React application for storing contacts in a phonebook. Users can add, f
   Responsive & Centered Design: The main content is centered both vertically and horizontally, ensuring a clean UI across various screen sizes.
   
 ## Tech Stack
-  React with Vite (development/build tooling)
+   React with Vite (development/build tooling)
   Formik and Yup (form management and validation)
   nanoid (unique ID generation)
   CSS Modules (modular styling)
@@ -95,7 +95,7 @@ Deployment
 This project can be deployed easily on platforms like Vercel or Netlify. Simply connect your GitHub repository, and let the platform handle the build and deployment process.
 
 ## License
-This project is open source; you can adapt and reuse the code as needed.
+ This project is open source; you can adapt and reuse the code as needed.
 (If you have a specific license, include it here, for example: MIT License).
 
 
