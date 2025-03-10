@@ -57,13 +57,13 @@ A simple React application for storing contacts in a phonebook. Users can add, f
 
 ## Explanation
 
- public/: Contains static assets (video file, favicon, etc.) that will be served directly.
- src/: Contains all source files for the React application.
+  public/: Contains static assets (video file, favicon, etc.) that will be served directly.
+  src/: Contains all source files for the React application.
   components/: Each component in its own folder, with a matching .jsx file and .module.css file for styles.
- main.jsx: Entry point for the React application (rendering <App />).
- index.css: Global or reset CSS rules that apply to the entire app.
- index.html: Loads the app script and references any static assets (favicon, video).
- package.json: Manages project dependencies and scripts.
- vite.config.js: Configuration for Vite (plugins, etc.).
- .gitignore: Excludes files/folders (like node_modules/ and dist/) from version control.
- README.md: Contains the project’s description, setup instructions, usage, etc.
+  main.jsx: Entry point for the React application (rendering <App />).
+  index.css: Global or reset CSS rules that apply to the entire app.
+  index.html: Loads the app script and references any static assets (favicon, video).
+  package.json: Manages project dependencies and scripts.
+  vite.config.js: Configuration for Vite (plugins, etc.).
+  .gitignore: Excludes files/folders (like node_modules/ and dist/) from version control.
+  README.md: Contains the project’s description, setup instructions, usage, etc.
