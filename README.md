@@ -18,6 +18,9 @@
   CSS Modules (modular styling)
   localStorage (data persistence)
 
+## The project is live on Vercel
+   https://goit-neo-react-hw-module3-wheat.vercel.app
+
 ## Design
 
 ![Screenshot 2025-03-10 173333](https://github.com/user-attachments/assets/e1e9a9bc-acda-4d99-ba43-92fa0c924556)
