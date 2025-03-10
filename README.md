@@ -57,7 +57,8 @@ A simple React application for storing contacts in a phonebook. Users can add, f
 
 ## Explanation
 
-  public/: Contains static assets (video file, favicon, etc.) that will be served directly.
+  ### public/: 
+  Contains static assets (video file, favicon, etc.) that will be served directly.
   
   src/: Contains all source files for the React application.
   
