@@ -17,3 +17,39 @@ A simple React application for storing contacts in a phonebook. Users can add, f
   nanoid (unique ID generation)
   CSS Modules (modular styling)
   localStorage (data persistence)
+
+## Design
+
+![Screenshot 2025-03-10 173333](https://github.com/user-attachments/assets/e1e9a9bc-acda-4d99-ba43-92fa0c924556)
+
+## Application structure
+
+
+    phonebook-app/
+    ├─ public/
+    │  ├─ Phonebook.mp4      // Background video file
+    │  └─ favicon.ico        // Favicon
+    ├─ src/
+    │  ├─ components/
+    │  │  ├─ App/
+    │  │  │  ├─ App.jsx
+    │  │  │  └─ App.module.css
+    │  │  ├─ ContactForm/
+    │  │  │  ├─ ContactForm.jsx
+    │  │  │  └─ ContactForm.module.css
+    │  │  ├─ ContactList/
+    │  │  │  ├─ ContactList.jsx
+    │  │  │  └─ ContactList.module.css
+    │  │  ├─ Contact/
+    │  │  │  ├─ Contact.jsx
+    │  │  │  └─ Contact.module.css
+    │  │  └─ SearchBox/
+    │  │     ├─ SearchBox.jsx
+    │  │     └─ SearchBox.module.css
+    │  ├─ main.jsx
+    │  └─ index.css          // Global/reset CSS
+    ├─ index.html            // Entry point (includes <link> to favicon and video)
+    ├─ package.json
+    ├─ vite.config.js
+    ├─ .gitignore
+    └─ README.md             // Project description
